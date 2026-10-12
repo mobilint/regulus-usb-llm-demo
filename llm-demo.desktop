@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type = Application
+Name = LLM
+Icon = llm-demo.png
+Exec = /usr/bin/env bash -lc 'cd "$HOME/regulus-usb-llm-demo" && ./run.sh'
+Terminal = true
